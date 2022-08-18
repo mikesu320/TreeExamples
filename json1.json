@@ -1,0 +1,74 @@
+{
+ "value": 0,
+  "left": {
+    "value": 0,
+    "left": {
+      "value": 4,
+      "left": {
+        "value": 3,
+        "left": {
+          "value": 6,
+          "left": {
+            "value": 7,
+            "left": {
+              "value": 7,
+              "left": {
+                "value": 2,
+                "left": {
+                  "value": 8,
+                  "left": {
+                    "value": 8,
+                    "left": {
+                      "value": 2,
+                      "left": {
+                        "value": 9,
+                        "left": {
+                          "value": 3,
+                          "left": {
+                            "value": 9,
+                            "left": {
+                              "value": 7,
+                              "left": null,
+                              "right": null
+                            },
+                            "right": {
+                              "value": 5,
+                              "left": null,
+                              "right": null
+                            }
+                          },
+                          "right": {
+                            "value": 0,
+                            "left": {
+                              "value": 5,
+                              "left": null,
+                              "right": null
+                            },
+                            "right": null
+                          },
+                          "right": null
+                        },
+                        "right": null
+                      },
+                      "right": null
+                    },
+                    "right": null
+                  },
+                  "right": null
+                },
+                "right": null
+              },
+              "right": null
+            },
+            "right": null
+          },
+          "right": null
+        },
+        "right": null
+      },
+      "right": null
+    },
+    "right": null
+  },
+  "right": null
+}
